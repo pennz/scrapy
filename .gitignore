@@ -1,0 +1,6 @@
+*.sqlite
+*/test.html
+__pycache__
+.idea
+.DS_Store
+*.exp
